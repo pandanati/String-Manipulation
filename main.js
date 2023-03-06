@@ -12,6 +12,7 @@ function addstring(){
     if (!inputString)
     {
         alert("You have to input some letters");
+        
     }
     else
     {
