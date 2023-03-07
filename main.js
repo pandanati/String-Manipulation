@@ -16,6 +16,7 @@ function addstring(){
     }
     else
     {
+        
         let newListItem = document.createElement("li");
         stringList.appendChild(newListItem);
         newListItem.appendChild(inputText).innerHTLM;
